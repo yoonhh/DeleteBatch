@@ -1,0 +1,33 @@
+delete : 1.697609916391E9초
+Error, failed to delete, There are no available archives that can access content for element 202305041052450w, last local path .
+delete : 1.697609916391E9초
+Error, failed to delete, There are no available archives that can access content for element 2023050410524601, last local path .
+delete : 1.697609916391E9초
+Error, failed to delete, There are no available archives that can access content for element 2023050410524602, last local path .
+delete : 1.697609916391E9초
+Error, failed to delete, There are no available archives that can access content for element 2023050410524603, last local path .
+총건수 : 4
+삭제건수 : 0
+에러건수 : 4
+2023-10-18 15:45:28,497  INFO (Delete.java:74) - delete : 1.697611528305E9초
+2023-10-18 15:45:28,499 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 202305041052450w, last local path .
+2023-10-18 15:45:28,514  INFO (Delete.java:74) - delete : 1.697611528305E9초
+2023-10-18 15:45:28,514 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 2023050410524601, last local path .
+2023-10-18 15:45:28,528  INFO (Delete.java:74) - delete : 1.697611528305E9초
+2023-10-18 15:45:28,528 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 2023050410524602, last local path .
+2023-10-18 15:45:28,541  INFO (Delete.java:74) - delete : 1.697611528305E9초
+2023-10-18 15:45:28,541 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 2023050410524603, last local path .
+2023-10-18 15:45:28,541  INFO (Delete.java:88) - 총건수 : 4
+2023-10-18 15:45:28,541  INFO (Delete.java:89) - 삭제건수 : 0
+2023-10-18 15:45:28,541  INFO (Delete.java:90) - 에러건수 : 4
+2023-10-18 15:55:53,167  INFO (Delete.java:74) - delete : 1.697612152989E9초
+2023-10-18 15:55:53,168 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 202305041052450w, last local path .
+2023-10-18 15:55:53,186  INFO (Delete.java:74) - delete : 1.697612152989E9초
+2023-10-18 15:55:53,186 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 2023050410524601, last local path .
+2023-10-18 15:55:53,201  INFO (Delete.java:74) - delete : 1.697612152989E9초
+2023-10-18 15:55:53,202 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 2023050410524602, last local path .
+2023-10-18 15:55:53,221  INFO (Delete.java:74) - delete : 1.697612152989E9초
+2023-10-18 15:55:53,221 ERROR (Delete.java:76) - Error, failed to delete, There are no available archives that can access content for element 2023050410524603, last local path .
+2023-10-18 15:55:53,222  INFO (Delete.java:88) - 총건수 : 4
+2023-10-18 15:55:53,222  INFO (Delete.java:89) - 삭제건수 : 0
+2023-10-18 15:55:53,222  INFO (Delete.java:90) - 에러건수 : 4
